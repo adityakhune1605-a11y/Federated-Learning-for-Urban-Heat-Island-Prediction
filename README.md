@@ -35,22 +35,6 @@ Clients → Server → Cloud API → Dashboard
 
 ---
 
-## 📁 Project Structure
-FL-UHZ/
-│
-├── backend/
-│ ├── client/ # Local training code
-│ ├── server/ # FL server
-│ ├── bridge/ # Flask API (Render)
-│ └── data/ # Dataset (future use)
-│
-├── frontend/ # React dashboard
-│
-└── README.md
-
-
----
-
 ## ⚙️ How to Run the Project
 
 Follow these steps carefully:
