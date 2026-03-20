@@ -1,0 +1,8 @@
+flwr
+tensorflow
+numpy
+scikit-learn
+flask
+flask-cors
+requests
+gunicorn
